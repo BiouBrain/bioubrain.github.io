@@ -7,7 +7,7 @@ A student-led initiative looking to foster the knowledge of neuroscience in yout
 
 ## About
 
- Biou (Greek); duration of life, the medium by which life is sustained. 
+Biou (Greek); duration of life, the medium by which life is sustained. 
 
 BiouBrain started out as an initiative to help youth around the world gain access to neuroscience resources, and was originally intended to be shared with a goal of increasing youth opportunities in neuroscience in mind. This led to an initiative under BiouBrain to further progress in production of early-stage resources and help make learning about Neuroscience more accessible. 
 
